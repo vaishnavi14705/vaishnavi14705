@@ -5,14 +5,22 @@ I'm a Data Science undergraduate currently pursuing my B.Tech at SRM University.
 🚀 Projects & Hackathons I've worked on:
 
 🏘 Urban Nest – A smart housing solution for modern urban challenges.(AI terrace farming) and CO₂/heat detection drones.
+
 🛒 Smart Bazaar – E-commerce project integrating AR/VR to enhance virtual try-on experiences.
+
  FitMod AI – AI-based fitness and health recommendation system.
+ 
 💻 Currently learning:
-Salesforce automation (Flows, Apex, Validation Rules)
+
+Salesforce automation (Flows, Apex, Validation Rules):
+
 C++ DSA and Data Analysis
+
 🌱 Exploring:
+
 Smart agriculture, Edge AI, Sustainable tech
-Thrift-based business + Design workflows
+Thrift-based business + Design workflows.
+
 ✨ Fun Fact: I love creative side projects and I thrift like a pro 💡
 
 📫 Reach me at: vaishnavi14705@gmail.com
