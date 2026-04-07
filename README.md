@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Vaishnavi 👋</h1>
+<h1 align="center">Hi there, Vaishnavi here! ✨</h1>
 
 <p align="center">
-  Data Analyst | Power BI • SQL • Excel
+  Data Science Student | AI/ML Enthusiast | Problem Solver
 </p>
 
 <p align="center">
@@ -15,72 +15,62 @@
 
 ---
 
-### 📊 About Me
-I am a Data Science undergraduate with a strong interest in **data analysis and business insights**.  
-I specialize in transforming raw data into meaningful dashboards and reports using **Power BI, SQL, and Excel**.
+### 🛠️ My Tech Stack
+
+#### 💻 Languages & Core
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
+
+#### 🌐 Web & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🚀 Featured Projects
 
-#### 📊 Data Analysis
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
-
-#### 💻 Programming
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-
----
-
-### 📁 Featured Projects
-
-#### 📊 Sales Dashboard (Power BI)
+#### 🌆 Urban Nest
 <img src="YOUR_IMAGE_LINK" width="100%"/>
 
-- Built interactive dashboard to analyze sales performance  
-- Used filters, KPIs, and visual storytelling  
-- Improved business insights and decision-making  
-
-[🔗 View Project](https://github.com/your-repo)
+AI-powered smart housing with CO₂/heat detection using drones.  
+**Tech:** AI, IoT  
 
 ---
 
-#### 📈 Excel Data Analysis Project
+#### 🛍️ Smart Bazaar
 <img src="YOUR_IMAGE_LINK" width="100%"/>
 
-- Cleaned and analyzed large datasets using Excel  
-- Applied pivot tables, charts, and formulas  
-- Generated actionable insights  
-
-[🔗 View Project](https://github.com/your-repo)
+AR/VR-based e-commerce experience for virtual product try-on.  
+**Tech:** React, AR/VR  
 
 ---
 
-#### 🗄️ SQL Data Analysis
+#### 💪 FitMod AI
 <img src="YOUR_IMAGE_LINK" width="100%"/>
 
-- Wrote complex queries (JOIN, GROUP BY, subqueries)  
-- Extracted insights from structured datasets  
-- Focused on real-world business problems  
-
-[🔗 View Project](https://github.com/your-repo)
+AI-based personalized fitness recommendation system.  
+**Tech:** Machine Learning  
 
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi14705&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi14705" />
 </p>
 
 ---
 
 ### 📌 Currently Working On
-- Advanced SQL Queries  
-- Power BI Dashboard Design  
-- Data Cleaning & Visualization  
+- Data Structures & Algorithms  
+- Salesforce Automation  
+- Data Analysis  
 
 ---
 
 ### 🌱 Interests
-Data Visualization • Business Intelligence • Analytics • Problem Solving
+Smart Agriculture • Edge AI • Sustainable Tech • UI/UX
