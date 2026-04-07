@@ -1,63 +1,86 @@
-<h1 align="center">Vaishnavi</h1>
+<h1 align="center">Hi, I'm Vaishnavi 👋</h1>
+
 <p align="center">
-  Data Science Undergraduate | AI & ML Enthusiast
+  Data Analyst | Power BI • SQL • Excel
+</p>
+
+<p align="center">
+  <a href="mailto:vaishnavi14705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
-I am a Data Science undergraduate at SRM University with a strong interest in building real-world, impactful solutions using AI and data-driven technologies. I have worked on multiple projects across domains such as smart agriculture, e-commerce, and healthcare systems.
+### 📊 About Me
+I am a Data Science undergraduate with a strong interest in **data analysis and business insights**.  
+I specialize in transforming raw data into meaningful dashboards and reports using **Power BI, SQL, and Excel**.
 
 ---
 
-### 🚀 Projects
+### 🛠️ Tools & Technologies
 
-**Urban Nest**  
-AI-powered smart housing solution with CO₂/heat detection using drone-based monitoring.  
-*Focus:* Sustainability, Smart Cities  
+#### 📊 Data Analysis
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
-**Smart Bazaar**  
-E-commerce platform integrating AR/VR for virtual product try-on.  
-*Focus:* User Experience, Innovation  
-
-**FitMod AI**  
-AI-based personalized fitness and health recommendation system.  
-*Focus:* Machine Learning, Health Tech  
+#### 💻 Programming
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
 ---
 
-### 🛠️ Skills
+### 📁 Featured Projects
 
-**Languages:**  
-C++, Python, JavaScript  
+#### 📊 Sales Dashboard (Power BI)
+<img src="YOUR_IMAGE_LINK" width="100%"/>
 
-**Technologies:**  
-React, Node.js, MongoDB, MySQL  
+- Built interactive dashboard to analyze sales performance  
+- Used filters, KPIs, and visual storytelling  
+- Improved business insights and decision-making  
 
-**Core Areas:**  
-Data Analysis, Machine Learning, Problem Solving  
-
----
-
-### 📚 Currently Learning
-- Data Structures & Algorithms  
-- Salesforce Automation (Flows, Apex)  
-- Advanced Data Analysis  
+[🔗 View Project](https://github.com/your-repo)
 
 ---
 
-### 📊 GitHub Overview
+#### 📈 Excel Data Analysis Project
+<img src="YOUR_IMAGE_LINK" width="100%"/>
+
+- Cleaned and analyzed large datasets using Excel  
+- Applied pivot tables, charts, and formulas  
+- Generated actionable insights  
+
+[🔗 View Project](https://github.com/your-repo)
+
+---
+
+#### 🗄️ SQL Data Analysis
+<img src="YOUR_IMAGE_LINK" width="100%"/>
+
+- Wrote complex queries (JOIN, GROUP BY, subqueries)  
+- Extracted insights from structured datasets  
+- Focused on real-world business problems  
+
+[🔗 View Project](https://github.com/your-repo)
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi14705&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi14705&show_icons=true" />
 </p>
 
 ---
 
-### 📫 Contact
-- Email: vaishnavi14705@gmail.com  
-- LinkedIn: [Add Link]  
+### 📌 Currently Working On
+- Advanced SQL Queries  
+- Power BI Dashboard Design  
+- Data Cleaning & Visualization  
 
 ---
 
-### ✨ Interests
-Smart Agriculture • Edge AI • Sustainable Technology • Design Thinking
+### 🌱 Interests
+Data Visualization • Business Intelligence • Analytics • Problem Solving
