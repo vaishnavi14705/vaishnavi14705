@@ -30,22 +30,23 @@
 
 ```javascript
 const vaishnavi = {
-  name:        "Vaishnavi",
-  role:        "Data Science undergrad",
+ name:        "Vaishnavi",
+  role:        "Data Science Undergraduate & AI Enthusiast",
   location:    "India 🇮🇳",
   education:   "B.Tech | Computer Science & Engineering",
-  internship:  "Quadrant 4 Technologies",
-  currentFocus: ["Data Structures & Algorithms", "Web Development", "Salesforce"],
+  internship:  "Quadrant 4 Technologies (Salesforce Developer)",
+  currentFocus: ["Data Structures & Algorithms", "Data Science", "AI", "Dashboards"],
   funFact:     "I debug faster with lo-fi music on 🎵",
-  goal:        "Building impactful products & cracking great placements 🚀"
+  goal:        "Building impactful data-driven products 🚀""
 };
 ```
 
-- 🎓 CSE undergrad passionate about **clean code** and **smart problem-solving**
-- 🏢 Interned at **Quadrant 4 Technologies** — real-world exposure, real-world growth
-- 💡 Love breaking down complex DSA problems into simple, elegant logic
-- 🌱 Currently leveling up in **Full Stack Development** and **Salesforce ecosystem**
-- ⚡ Believe in **learning by building** — every project teaches something new
+🎓 Data Science undergrad with strong interest in AI & real-world problem solving
+🏢 Interned at Quadrant 4 Technologies as a Salesforce Developer
+📊 Passionate about data analytics, dashboards & insights (Power BI)
+🎨 Love creating interactive UI/UX designs & creative digital solutions
+📱 Also experienced in social media management & creative strategy
+⚡ Believe in learning by building — from DSA to data-driven applications
 
 ---
 
@@ -60,7 +61,6 @@ const vaishnavi = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -107,47 +107,7 @@ const vaishnavi = {
 
 ## 💼 Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛍️ E-Commerce Website</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">A fully responsive e-commerce frontend with product listings, cart functionality, and a clean UI that works across all screen sizes.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧮 DSA Visualizer</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-      <p align="center">An interactive visualizer for sorting algorithms and data structures, making it easy to understand how algorithms behave step-by-step.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📋 Task Management App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <p align="center">A React-based task manager with add/edit/delete/filter features, built to practice state management and component-based architecture.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Portfolio Website</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">A personal portfolio website with smooth animations, project showcase, and a contact section — my digital identity on the web.</p>
-    </td>
-  </tr>
-</table>
-
+<table align="center"> <tr> <td width="50%"> <h3 align="center">⚖️ Lawyer AI</h3> <p align="center">An AI-based solution designed to assist with legal queries, providing smart and efficient responses using structured data.</p> </td> <td width="50%"> <h3 align="center">🏡 Urban Nest</h3> <p align="center">A modern housing/real estate platform with a focus on clean UI/UX and user-friendly interaction.</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">💪 Physiotherapist Website</h3> <p align="center">A professional website designed for physiotherapy services with interactive UI and clean design.</p> </td> <td width="50%"> <h3 align="center">🎨 Yoshein</h3> <p align="center">A creative project focused on design, branding, and visually engaging digital experiences.</p> </td> </tr> </table>
 > 💡 *Replace these with your actual project names, links, and descriptions for maximum impact!*
 
 ---
@@ -156,25 +116,26 @@ const vaishnavi = {
 
 <div align="center">
 
-### 🚀 Quadrant 4 Technologies
+### 🚀 Quadrafort Technologies
 ![Internship](https://img.shields.io/badge/Internship-Quadrant%204%20Technologies-a855f7?style=for-the-badge&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 </div>
 
 ```
-🏢  Company    : Quadrant 4 Technologies
-💼  Role       : Software Development Intern
-📍  Mode       : [Onsite / Remote]
-📅  Duration   : [Month Year] – [Month Year]
+🏢  Company    : Quadrafort 4 Technologies  
+💼  Role       : Salesforce Developer Intern  
+📊  Focus      : Data Management & Dashboard Development  
 ```
 
 **Key Contributions & Learnings:**
-- 🔹 Worked on real-world software development tasks in a professional environment
-- 🔹 Gained hands-on experience with **[technologies used — e.g., Salesforce, Web Dev, etc.]**
-- 🔹 Collaborated with a team to design, develop, and test software modules
-- 🔹 Understood industry-level **code quality standards**, version control workflows, and agile practices
-- 🔹 Bridged the gap between academic knowledge and production-ready development
+-🔹 Worked on data management, reports, and dashboards
+🔹 Built and analyzed datasets using Excel & SQL
+🔹 Contributed to interactive dashboard creation (including Power BI concepts)
+🔹 Gained hands-on experience in Salesforce ecosystem
+🔹 Focused on data-driven decision making & reporting
+🔹 Also explored creative UI/UX designs and system structuringpractices
+
 
 > 📌 *Update the role, duration, and bullet points with your exact responsibilities for a stronger impact!*
 
