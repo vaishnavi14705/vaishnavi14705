@@ -30,14 +30,14 @@
 
 ```javascript
 const vaishnavi = {
- name:        "Vaishnavi",
+  name:        "Vaishnavi",
   role:        "Data Science Undergraduate & AI Enthusiast",
   location:    "India 🇮🇳",
   education:   "B.Tech | Computer Science & Engineering",
-  internship:  "Quadrant 4 Technologies (Salesforce Developer)",
-  currentFocus: ["Data Structures & Algorithms", "Data Science", "AI", "Dashboards"],
+  internship:  "Quadrafort 4 Technologies (Salesforce Developer)",
+  currentFocus: ["Data Structures & Algorithms", "Data Science", "AI"],
   funFact:     "I debug faster with lo-fi music on 🎵",
-  goal:        "Building impactful data-driven products 🚀""
+  goal:        "Building impactful data-driven products 🚀"
 };
 ```
 
