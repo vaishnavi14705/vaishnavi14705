@@ -31,7 +31,7 @@
 ```javascript
 const vaishnavi = {
   name:        "Vaishnavi",
-  role:        "Full Stack Developer & DSA Enthusiast",
+  role:        "Data Science undergrad",
   location:    "India 🇮🇳",
   education:   "B.Tech | Computer Science & Engineering",
   internship:  "Quadrant 4 Technologies",
