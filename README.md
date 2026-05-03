@@ -88,13 +88,13 @@ const vaishnavi = {
 </div>
 
 ```
-📌 Core Concepts I've Mastered:
+📌 Core Concepts:
 ┌─────────────────────────────────────────────────────────┐
-│  📦 Arrays & Strings        🔗 Linked Lists             │
-│  📚 Stacks & Queues         🔄 Recursion & Backtracking  │
-│  🌲 Trees & Graphs          🔍 Binary Search             │
-│  💡 Dynamic Programming     #️⃣ Hashing & Maps           │
-│  🔀 Sorting & Searching     🧩 Two Pointers / Sliding    │
+│  📦 Arrays & Strings        🔗 Linked Lists            
+│  📚 Stacks & Queues         🔄 Recursion & Backtracking 
+│  🌲 Trees & Graphs          🔍 Binary Search            
+│  💡 Dynamic Programming     #️⃣ Hashing & Maps           
+│  🔀 Sorting & Searching     🧩 Two Pointers / Sliding  
 └─────────────────────────────────────────────────────────┘
 ```
 
