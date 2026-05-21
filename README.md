@@ -30,7 +30,7 @@
 
 ![India](https://img.shields.io/badge/India-%230d1117?style=flat-square&logo=googlemaps&logoColor=94a3b8)&nbsp;
 ![SRM University](https://img.shields.io/badge/SRM%20University-B.Tech%20CS-%230d1117?style=flat-square&logo=graduation-cap&logoColor=94a3b8)&nbsp;
-![Intern](https://img.shields.io/badge/Salesforce%20Dev%20Intern-Quadrant%204%20Technologies-%230d1117?style=flat-square&logo=salesforce&logoColor=00a1e0)&nbsp;
+![Intern](https://img.shields.io/badge/Salesforce%20Dev%20Intern-Quadrafort%20Technologies-%230d1117?style=flat-square&logo=salesforce&logoColor=00a1e0)&nbsp;
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-%230d1117?style=flat-square&logo=handshake&logoColor=7c6fcd)
 
 </div>
