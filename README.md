@@ -57,10 +57,6 @@
 
 &emsp; ✨ I'm **Vaishnavi** — a Data Science student at **SRM University, India**, blending the logic of analytics with the creativity of digital experiences. My world revolves around transforming raw data into meaningful stories through **Power BI dashboards, SQL, Excel analytics, and data visualization**, while continuously exploring the evolving landscape of **Data Science & AI**.
 
-&emsp; Beyond technical work, I navigate the worlds of **social media strategy, creative branding, and digital design** — because great technology, like great art, always communicates something.
-
-&emsp; I believe the best solutions are never just functional — they are *felt*.
-
 </td>
 </tr>
 </table>
