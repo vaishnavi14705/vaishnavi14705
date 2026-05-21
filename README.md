@@ -30,7 +30,7 @@
 <!--                   GLOWING DIVIDER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
@@ -44,18 +44,16 @@
 
 </div>
 
-```python
-class Vaishnavi:
-    def __init__(self):
-        self.name        = "Vaishnavi"
-        self.university  = "B.Tech CSE @ SRM University"
-        self.internship  = "Salesforce Dev Intern @ Quadrafort Technologies, Noida"
-        self.focus       = ["Data Science", "Power BI", "Analytics", "AI", "UI/UX"]
-        self.superpower  = "Turning raw data into stunning visual stories"
-        self.currently   = "Exploring Full Stack Development ✦"
-        self.passion     = ["Creative Branding", "Aesthetic UI", "Data Dashboards"]
-        self.vibe        = "Where creativity meets technology 💜"
-```
+- ✦ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ **SRM University**  
+- 📊 ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ **Power BI**, dashboards & data visualization  
+- 🧠 ᴇxᴘʟᴏʀɪɴɢ **AI, Analytics & Data Storytelling**  
+- 💻 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **Full Stack Development** ✨  
+- 🎨 ʟᴏᴠᴇ ᴄʀᴇᴀᴛɪᴠᴇ ᴜɪ/ᴜx, branding & aesthetic digital experiences  
+- ⚡ ʙᴜɪʟᴛ ᴍᴜʟᴛɪᴘʟᴇ ᴄʟɪᴇɴᴛ ᴡᴇʙꜱɪᴛᴇꜱ ᴀɴᴅ ᴄʀᴇᴀᴛɪᴠᴇ ᴘʀᴏᴊᴇᴄᴛꜱ  
+- 🏢 ꜰᴏʀᴍᴇʀ **Salesforce Developer Intern** @ Quadrafort Technologies, Noida  
+- 📈 ᴡᴏʀᴋᴇᴅ ᴏɴ reports, CRM workflows, SQL & Excel analytics  
+- 🔍 ᴇɴᴊᴏʏ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, DSA & building smart solutions  
+- 🌌 “Turning raw data into meaningful visual stories.”  
 
 <div align="center">
 
