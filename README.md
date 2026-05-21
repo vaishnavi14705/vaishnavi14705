@@ -141,23 +141,6 @@ const vaishnavi = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavi14705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi14705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavi14705&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
