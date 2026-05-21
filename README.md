@@ -55,8 +55,6 @@ I'm **Vaishnavi**, a Data Science student at **SRM University**, with a deep pas
 
 I believe the best data work is not just accurate — it's *beautiful*. I bring that philosophy to every project: from architecting multi-layered Power BI dashboards to crafting digital experiences that feel intentional, premium, and alive.
 
-Beyond data, I build websites, explore UI/UX design, and am actively growing my Full Stack development skills — always pushing toward becoming a more complete creative technologist.
-
 <br/>
 
 - 🎓 &nbsp; **B.Tech — Data Science**, SRM University
