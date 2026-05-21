@@ -1,198 +1,459 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   VAISHNAVI · GITHUB PROFILE README            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Vaishnavi+%F0%9F%91%8B;Full+Stack+Developer+%7C+DSA+Enthusiast;Salesforce+%7C+Web+Dev+%7C+Problem+Solver;Building+things+that+actually+work+%E2%9A%A1)](https://git.io/typing-svg)
+<!-- ╔══════════════════ ANIMATED HEADER ══════════════════╗ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,10,10&height=200&section=header&text=Vaishnavi&fontSize=72&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Creative%20Tech&descAlignY=58&descSize=18&descColor=c0c0c0&animation=fadeIn&stroke=7F1D1D&strokeWidth=1" width="100%"/>
+
+<!-- ╔══════════════════ TYPING SVG ══════════════════╗ -->
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi14705&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vaishnavi14705?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Followers)](https://github.com/vaishnavi14705)
-[![GitHub Stars](https://img.shields.io/github/stars/vaishnavi14705?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars)](https://github.com/vaishnavi14705)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&pause=1000&color=991B1B&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%26+AI+Enthusiast;Salesforce+Developer+Intern;Creative+Technologist+%26+Problem+Solver;Building+elegant+solutions%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
+
+<!-- ╔══════════════════ BIO INTRO ══════════════════╗ -->
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║   💜  Crafting elegant solutions, one commit at a time  💜  ║
-╚════════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════╗
+  ║                                                       ║
+  ║    ◈  B.Tech Student · SRM University, India  ◈      ║
+  ║    ◈  Salesforce Developer Intern @ Q4 Tech   ◈      ║
+  ║    ◈  Crafting code with intention & elegance ◈      ║
+  ║                                                       ║
+  ╚═══════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+<br/>
 
-## 🌸 About Me
+<!-- ╔══════════════════ ABOUT ME ══════════════════╗ -->
 
-```javascript
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Heart.png" width="22px"/>
+  &nbsp; About Me &nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Heart.png" width="22px"/>
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```typescript
 const vaishnavi = {
-  name:        "Vaishnavi",
-  role:        "Data Science Undergraduate & AI Enthusiast",
-  location:    "India 🇮🇳",
-  education:   "B.Tech | Computer Science & Engineering",
-  internship:  "Quadrafort 4 Technologies (Salesforce Developer)",
-  currentFocus: ["Data Structures & Algorithms", "Data Science", "AI"],
-  funFact:     "I debug faster with lo-fi music on 🎵",
-  goal:        "Building impactful data-driven products 🚀"
+  location   : "India 🇮🇳",
+  university : "SRM University",
+  degree     : "B.Tech (Computer Science)",
+  
+  currentRole: "Salesforce Developer Intern",
+  company    : "Quadrant 4 Technologies",
+
+  focus: [
+    "Full Stack Development",
+    "Data Science & AI/ML",
+    "DSA & Competitive Coding",
+    "UI/UX Design",
+    "Salesforce Ecosystem",
+  ],
+
+  sideQuests: [
+    "Social Media Management",
+    "Creative Branding",
+    "Digital Design",
+  ],
+
+  philosophy : "Elegance is not optional.",
+  currentlyBuilding: "AI-powered legal tech ⚖️",
 };
 ```
 
-🎓 Data Science undergrad with strong interest in AI & real-world problem solving
-🏢 Interned at Quadrant 4 Technologies as a Salesforce Developer
-📊 Passionate about data analytics, dashboards & insights (Power BI)
-🎨 Love creating interactive UI/UX designs & creative digital solutions
-📱 Also experienced in social media management & creative strategy
-⚡ Believe in learning by building — from DSA to data-driven applications
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+
+**✦ Currently**
+Interning as a Salesforce Developer, building enterprise solutions and automations.
+
+<br/>
+
+**✦ Learning**
+Deepening expertise in AI/ML pipelines, React ecosystems, and cloud-native architecture.
+
+<br/>
+
+**✦ Crafting**
+Premium digital experiences that marry technical precision with visual elegance.
+
+<br/>
+
+**✦ Solving**
+LeetCode daily — because sharp code lives in a sharp mind.
+
+<br/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- ╔══════════════════ TECH STACK ══════════════════╗ -->
+
+<h2 align="center">⟨ Tech Arsenal ⟩</h2>
+
+<br/>
+
+**✦ Languages**
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Platforms & Tools
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%230D0D0D.svg?style=for-the-badge&logo=python&logoColor=991B1B)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230D0D0D.svg?style=for-the-badge&logo=javascript&logoColor=991B1B)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230D0D0D.svg?style=for-the-badge&logo=typescript&logoColor=991B1B)
+![Java](https://img.shields.io/badge/Java-%230D0D0D.svg?style=for-the-badge&logo=openjdk&logoColor=991B1B)
+![C++](https://img.shields.io/badge/C++-%230D0D0D.svg?style=for-the-badge&logo=cplusplus&logoColor=991B1B)
+![HTML5](https://img.shields.io/badge/HTML5-%230D0D0D.svg?style=for-the-badge&logo=html5&logoColor=991B1B)
+![CSS3](https://img.shields.io/badge/CSS3-%230D0D0D.svg?style=for-the-badge&logo=css3&logoColor=991B1B)
 
 </div>
+
+<br/>
+
+**✦ Frontend**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-%230D0D0D.svg?style=for-the-badge&logo=react&logoColor=991B1B)
+![Next.js](https://img.shields.io/badge/Next.js-%230D0D0D.svg?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%230D0D0D.svg?style=for-the-badge&logo=tailwindcss&logoColor=991B1B)
+![Figma](https://img.shields.io/badge/Figma-%230D0D0D.svg?style=for-the-badge&logo=figma&logoColor=991B1B)
+![Framer](https://img.shields.io/badge/Framer-%230D0D0D.svg?style=for-the-badge&logo=framer&logoColor=991B1B)
+
+</div>
+
+<br/>
+
+**✦ Backend & Database**
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-%230D0D0D.svg?style=for-the-badge&logo=nodedotjs&logoColor=991B1B)
+![Express](https://img.shields.io/badge/Express-%230D0D0D.svg?style=for-the-badge&logo=express&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-%230D0D0D.svg?style=for-the-badge&logo=flask&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%230D0D0D.svg?style=for-the-badge&logo=mongodb&logoColor=991B1B)
+![MySQL](https://img.shields.io/badge/MySQL-%230D0D0D.svg?style=for-the-badge&logo=mysql&logoColor=991B1B)
+![Firebase](https://img.shields.io/badge/Firebase-%230D0D0D.svg?style=for-the-badge&logo=firebase&logoColor=991B1B)
+
+</div>
+
+<br/>
+
+**✦ AI / Data Science**
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%230D0D0D.svg?style=for-the-badge&logo=tensorflow&logoColor=991B1B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%230D0D0D.svg?style=for-the-badge&logo=scikit-learn&logoColor=991B1B)
+![Pandas](https://img.shields.io/badge/Pandas-%230D0D0D.svg?style=for-the-badge&logo=pandas&logoColor=991B1B)
+![NumPy](https://img.shields.io/badge/NumPy-%230D0D0D.svg?style=for-the-badge&logo=numpy&logoColor=991B1B)
+![OpenAI](https://img.shields.io/badge/OpenAI-%230D0D0D.svg?style=for-the-badge&logo=openai&logoColor=fff)
+
+</div>
+
+<br/>
+
+**✦ Salesforce & Cloud**
+
+<div align="center">
+
+![Salesforce](https://img.shields.io/badge/Salesforce-%230D0D0D.svg?style=for-the-badge&logo=salesforce&logoColor=991B1B)
+![Apex](https://img.shields.io/badge/Apex-%230D0D0D.svg?style=for-the-badge&logo=salesforce&logoColor=fff)
+![LWC](https://img.shields.io/badge/LWC-%230D0D0D.svg?style=for-the-badge&logo=salesforce&logoColor=991B1B)
+![AWS](https://img.shields.io/badge/AWS-%230D0D0D.svg?style=for-the-badge&logo=amazonaws&logoColor=991B1B)
+![Vercel](https://img.shields.io/badge/Vercel-%230D0D0D.svg?style=for-the-badge&logo=vercel&logoColor=fff)
+
+</div>
+
+<br/>
+
+**✦ Tools & Workflow**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-%230D0D0D.svg?style=for-the-badge&logo=git&logoColor=991B1B)
+![GitHub](https://img.shields.io/badge/GitHub-%230D0D0D.svg?style=for-the-badge&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230D0D0D.svg?style=for-the-badge&logo=visualstudiocode&logoColor=991B1B)
+![Postman](https://img.shields.io/badge/Postman-%230D0D0D.svg?style=for-the-badge&logo=postman&logoColor=991B1B)
+![Notion](https://img.shields.io/badge/Notion-%230D0D0D.svg?style=for-the-badge&logo=notion&logoColor=fff)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🧠 Data Structures & Algorithms
+<!-- ╔══════════════════ LEETCODE + DSA ══════════════════╗ -->
+
+<h2 align="center">⌬ LeetCode & Problem Solving</h2>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaishnavi14705)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+<br/>
 
-</div>
+[![LeetCode](https://img.shields.io/badge/LeetCode-vaishnavi1476-%230D0D0D?style=for-the-badge&logo=leetcode&logoColor=991B1B&labelColor=111827)](https://leetcode.com/u/vaishnavi1476/)
+
+<br/>
+
+<a href="https://leetcode.com/u/vaishnavi1476/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/vaishnavi1476?theme=dark&font=Karma&ext=heatmap&border=0&radius=16&color=991B1B&background=0D0D0D" alt="LeetCode Stats" width="480"/>
+</a>
+
+<br/><br/>
 
 ```
-📌 Core Concepts:
-┌─────────────────────────────────────────────────────────┐
-│  📦 Arrays & Strings        🔗 Linked Lists            
-│  📚 Stacks & Queues         🔄 Recursion & Backtracking 
-│  🌲 Trees & Graphs          🔍 Binary Search            
-│  💡 Dynamic Programming     #️⃣ Hashing & Maps           
-│  🔀 Sorting & Searching     🧩 Two Pointers / Sliding  
-└─────────────────────────────────────────────────────────┘
+  ╔═════════════════════════════════════════════╗
+  ║   "Consistent effort is the only algorithm  ║
+  ║    that never fails."                        ║
+  ╚═════════════════════════════════════════════╝
 ```
 
-- 🏆 Consistently solving problems on **LeetCode** and **GFG**
-- 📈 Focused on **interview-pattern problems** — arrays, strings, DP, and graphs
-- 🔥 Strong foundation in **time & space complexity analysis**
-- 💬 Can walk through a problem end-to-end — from brute force to optimal
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 💼 Projects
+<!-- ╔══════════════════ FEATURED PROJECTS ══════════════════╗ -->
 
-<table align="center"> <tr> <td width="50%"> <h3 align="center">⚖️ Lawyer AI</h3> <p align="center">An AI-based solution designed to assist with legal queries, providing smart and efficient responses using structured data.</p> </td> <td width="50%"> <h3 align="center">🏡 Urban Nest</h3> <p align="center">A modern housing/real estate platform with a focus on clean UI/UX and user-friendly interaction.</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">💪 Physiotherapist Website</h3> <p align="center">A professional website designed for physiotherapy services with interactive UI and clean design.</p> </td> <td width="50%"> <h3 align="center">🎨 Yoshein</h3> <p align="center">A creative project focused on design, branding, and visually engaging digital experiences.</p> </td> </tr> </table>
-> 💡 *Replace these with your actual project names, links, and descriptions for maximum impact!*
+<h2 align="center">◈ Featured Projects</h2>
 
----
-
-## 🏢 Internship Experience
+<br/>
 
 <div align="center">
 
-### 🚀 Quadrafort Technologies
-![Internship](https://img.shields.io/badge/Internship-Quadrant%204%20Technologies-a855f7?style=for-the-badge&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+| ⟨ Project ⟩ | ⟨ Description ⟩ | ⟨ Stack ⟩ | ⟨ Status ⟩ |
+|:---:|:---|:---:|:---:|
+| **⚖️ Lawyer AI** | An AI-powered legal assistant that simplifies legal language, provides case summaries, and helps users navigate legal documents with precision and clarity. | `Python` `OpenAI` `React` `Flask` | ![Active](https://img.shields.io/badge/Active-7F1D1D?style=flat-square) |
+| **🏙️ Urban Nest** | A modern real estate platform offering smart property listings, neighborhood analytics, and a seamless property discovery experience for urban dwellers. | `Next.js` `MongoDB` `Tailwind` | ![Active](https://img.shields.io/badge/Active-7F1D1D?style=flat-square) |
+| **🩺 Physiotherapist Website** | A professional healthcare web solution for a physiotherapy clinic — featuring appointment booking, service showcases, and patient-centric UX design. | `React` `Node.js` `CSS3` | ![Complete](https://img.shields.io/badge/Complete-111827?style=flat-square) |
+| **✨ Yoshein** | A curated digital experience — elegant, minimal, and designed to captivate. A creative showcase of branding meets development. | `HTML` `CSS` `JavaScript` | ![Active](https://img.shields.io/badge/Active-7F1D1D?style=flat-square) |
 
 </div>
 
-```
-🏢  Company    : Quadrafort 4 Technologies  
-💼  Role       : Salesforce Developer Intern  
-📊  Focus      : Data Management & Dashboard Development  
-```
+<br/>
 
-**Key Contributions & Learnings:**
--🔹 Worked on data management, reports, and dashboards
-🔹 Built and analyzed datasets using Excel & SQL
-🔹 Contributed to interactive dashboard creation (including Power BI concepts)
-🔹 Gained hands-on experience in Salesforce ecosystem
-🔹 Focused on data-driven decision making & reporting
-🔹 Also explored creative UI/UX designs and system structuringpractices
+<!-- Project Highlight Cards -->
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-> 📌 *Update the role, duration, and bullet points with your exact responsibilities for a stronger impact!*
+### ⚖️ Lawyer AI
+> *AI meets jurisprudence*
+
+Making legal knowledge accessible through intelligent AI. Natural language queries, document analysis, and legal clarity — delivered elegantly.
+
+`AI/ML` · `Legal Tech` · `NLP`
+
+</td>
+<td width="50%" align="center">
+
+### 🏙️ Urban Nest
+> *Your city, reimagined*
+
+Smart property discovery with data-driven neighborhood insights. Designed for the modern urban explorer who values aesthetics as much as analytics.
+
+`Real Estate` · `Data` · `UX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🩺 Physiotherapist Website
+> *Healthcare, beautifully presented*
+
+A fully responsive professional website that humanizes healthcare — clean UI, intuitive booking flows, and a calm, trustworthy visual identity.
+
+`Healthcare` · `Web Dev` · `UI/UX`
+
+</td>
+<td width="50%" align="center">
+
+### ✨ Yoshein
+> *Where code meets art*
+
+A creative branding and development project — every pixel intentional, every line of code purposeful. Built to be remembered.
+
+`Creative` · `Branding` · `Design`
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ╔══════════════════ EXPERIENCE ══════════════════╗ -->
 
-<div align="center">
+<h2 align="center">◈ Experience</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavi14705&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vaishnavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi14705&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📡 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi14705)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavi14705@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavi14705)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaishnavi14705)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-
+<br/>
 
 <div align="center">
 
 ```
-✨ "First, solve the problem. Then, write the code." — John Johnson ✨
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   ◈  SALESFORCE DEVELOPER INTERN                            ║
+  ║      Quadrant 4 Technologies                                 ║
+  ║                                                              ║
+  ║      · Building custom Salesforce solutions with Apex        ║
+  ║      · Developing Lightning Web Components (LWC)             ║
+  ║      · Designing automated workflows & business logic        ║
+  ║      · Collaborating on enterprise CRM implementations       ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**Thanks for stopping by! Drop a ⭐ if you like what you see 😊**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+**Beyond code — I also craft narratives.**
+
+| Creative Domain | What I Do |
+|:---:|:---|
+| 📱 **Social Media Management** | Strategy, content planning, and community building for brands |
+| 🎨 **Creative Branding** | Visual identity, brand voice, and cohesive digital aesthetics |
+| ✏️ **Digital Design** | UI mockups, graphic design, and visual storytelling |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════ GITHUB STATS ══════════════════╗ -->
+
+<h2 align="center">◈ GitHub Analytics</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/vaishnavi14705">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavi14705&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=991B1B&icon_color=7F1D1D&text_color=c0c0c0&border_color=1f1f1f&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi14705&layout=compact&theme=dark&bg_color=0D0D0D&title_color=991B1B&text_color=c0c0c0&border_color=1f1f1f&hide_border=false&langs_count=8" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vaishnavi14705&theme=dark&background=0D0D0D&border=1f1f1f&ring=991B1B&fire=7F1D1D&currStreakNum=fff&sideNums=c0c0c0&currStreakLabel=991B1B&sideLabels=c0c0c0&dates=555" width="500"/>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════ CONTRIBUTION GRAPH ══════════════════╗ -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi14705&bg_color=0D0D0D&color=991B1B&line=7F1D1D&point=fff&area=true&area_color=7F1D1D&border_color=1f1f1f&hide_border=false&title_color=991B1B" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════ TROPHIES ══════════════════╗ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi14705&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7&title_color=991B1B" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════ CONNECT ══════════════════╗ -->
+
+<h2 align="center">◈ Let's Connect</h2>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230D0D0D.svg?style=for-the-badge&logo=linkedin&logoColor=991B1B)](https://www.linkedin.com/in/vaishnavi14705/)
+[![GitHub](https://img.shields.io/badge/GitHub-%230D0D0D.svg?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/vaishnavi14705)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230D0D0D.svg?style=for-the-badge&logo=leetcode&logoColor=991B1B)](https://leetcode.com/u/vaishnavi1476/)
+[![Instagram](https://img.shields.io/badge/Instagram-%230D0D0D.svg?style=for-the-badge&logo=instagram&logoColor=991B1B)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-%230D0D0D.svg?style=for-the-badge&logo=gmail&logoColor=991B1B)](mailto:vaishnavi14705@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi14705&style=for-the-badge&color=7F1D1D&label=Profile+Views&base=0)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ╔══════════════════ FOOTER ══════════════════╗ -->
+
+<div align="center">
+
+<br/>
+
+```
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║                                                                   ║
+  ║   "The most powerful thing you can do is build something that     ║
+  ║    didn't exist before you imagined it."                          ║
+  ║                                                                   ║
+  ║                               — Vaishnavi                        ║
+  ╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,10,10&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              Crafted with precision by Vaishnavi               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
