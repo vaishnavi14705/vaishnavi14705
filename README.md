@@ -10,7 +10,7 @@
 <!--                 ANIMATED TYPING HEADER                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=600&lines=✦+Data+Science+Enthusiast+✦;✦+Dashboard+Developer+✦;✦+Analytics+%7C+AI+%7C+UI%2FUX+✦;✦+Creative+Technologist+✦;✦+Turning+Data+into+Stories+✦" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=600&lines=✦+Data+Science+Enthusiast+✦;✦+Dashboard+Developer+✦;✦+Analytics+%7C+AI+%7C+UI%2FUX+✦;✦+Creative+Technologist+✦;✦+Turning+Data+into+Stories+✦" /></a>
 
 <br/>
 
